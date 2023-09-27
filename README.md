@@ -10,6 +10,7 @@ I work on -
 - Cyber Security and Kali Linux
 - Salesforce Administration
 - Azure Dev Ops
+- Automation using ansible, terraform and shell scripts
 
 ---
 A hunter is a hunter, even in dreams!
