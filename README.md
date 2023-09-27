@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subodh-r-gupta
-I’m interested in ...Linux administration,Azure DevOps, Cyber Security,Salesforce Administration, IT service management.
+I’m interested in ...Linux administration,Azure DevOps, Cyber Security,Salesforce Administration, IT service Manager.
 
 <!---
 subodh-r-gupta/subodh-r-gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
