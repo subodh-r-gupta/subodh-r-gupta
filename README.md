@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subodh-r-gupta
+# 👋 Hi, I’m @subodh-r-gupta
 I am interested in
 - IT service Management
 - Linux Administration
