@@ -9,3 +9,6 @@ I am interested in -
 - Cyber Security and Kali Linux
 - Salesforce Administration
 - Azure Cloud Administration
+
+---
+"A hunter is a hunter, even in dreams!"
