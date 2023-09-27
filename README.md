@@ -1,6 +1,6 @@
 👋 Hi, I’m Subodh !
 ---
-I am interested in -
+I do -
 
 - IT Service Management and Delivery
 - Linux Administration
