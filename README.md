@@ -11,7 +11,7 @@ I work on -
 - Salesforce Administration
 - Azure Dev Ops
 - Automation using ansible, terraform and shell scripts
-- kvm (no budget, git gud or get rekt!), proxmox(some budget...bargain or no gain!) and vmware esxi (I got $$$!!, bring it on and show me your wares, baby!) based virtual infrastructure administration
+- kvm (no budget, git gud or get rekt!), proxmox(some budget...bargain or no gain!) and vmware esxi (I got $$$!! Show me your wares, baby!) based virtual infrastructure administration
 
 ---
 A hunter is a hunter, even in dreams!
