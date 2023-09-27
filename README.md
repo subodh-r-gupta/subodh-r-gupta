@@ -2,7 +2,7 @@
 ---
 I am interested in
 
-- IT service Management
+- IT Service Management and Delivery
 - Linux Administration
 - Docker Administration
 - Kubernetes Administration
