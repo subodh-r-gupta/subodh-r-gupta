@@ -7,5 +7,5 @@ I am interested in -
 - Docker Administration
 - Kubernetes Administration
 - Cyber Security and Kali Linux
-- Salesforce administration
+- Salesforce Administration
 - Azure Cloud Administration
