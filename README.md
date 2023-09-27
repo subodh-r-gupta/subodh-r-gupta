@@ -12,3 +12,4 @@ I am interested in -
 
 ---
 "A hunter is a hunter, even in dreams!"
+"Farewell, good Hunter. May you find your worth in the waking world."
