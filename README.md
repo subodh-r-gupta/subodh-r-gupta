@@ -3,7 +3,7 @@
 ---
 I work on -
 
-- IT Service Management and Managed servicec Delivery
+- IT Service Management and Managed Service Delivery
 - Linux Administration
 - Docker Administration
 - Kubernetes Administration
