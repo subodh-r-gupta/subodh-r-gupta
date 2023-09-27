@@ -9,7 +9,7 @@ I work on -
 - Kubernetes Administration
 - Cyber Security and Kali Linux
 - Salesforce Administration
-- Azure Cloud Administration
+- Azure Dev Ops
 
 ---
 A hunter is a hunter, even in dreams!
