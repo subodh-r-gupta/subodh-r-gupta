@@ -1,4 +1,4 @@
-👋 Hi, I’m @subodh-r-gupta !
+👋 Hi, I’m Subodh !
 
 I am interested in
 
