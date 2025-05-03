@@ -10,7 +10,7 @@ I work on -
 - Cyber Security and Kali Linux
 - Salesforce Administration
 - Azure Dev Ops
-- Automation using ansible, terraform and shell scripts
+- Automation using ansible, terraform,python and shell scripts
 - kvm (no budget, git gud or get rekt!), proxmox (some budget...bargain or no gain!) and vmware esxi (I got $$$!! Show me your wares, baby!) based virtual infrastructure administration
 
 ---
